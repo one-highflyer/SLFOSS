@@ -16,7 +16,7 @@ Welcome to the Sri Lankan Free & Open Source Software (FOSS) Collection! This re
 
 ## Healthcare 🏥
 
- - [CHR247](https://github.com/IMS94/chr247.com) : Commonwealth Digital 
+ - [CHR247](https://github.com/IMS94/chr247.com) : **Winner** - Commonwealth Digital 
    Health Award for promoting eHealth among general practitioners at the
    [Commonwealth Medical Association Conference
       2016.](https://www.facebook.com/commonwealthdoctors/)

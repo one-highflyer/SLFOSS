@@ -3,7 +3,7 @@
 
 Welcome to the Sri Lankan Free & Open Source Software (FOSS) Collection! This repository is dedicated to curating and showcasing the vibrant contributions from Sri Lankan developers to the open-source community. Whether it's innovative tools, libraries, frameworks, or educational resources, discover the richness of locally-developed FOSS projects that cater to a global audience. Dive in, explore, and support the talented developers from the pearl of the Indian Ocean.
 
-                                                 ෴
+##෴
 
 ## API / Integration / Middlewear  🔗
 

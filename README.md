@@ -26,7 +26,7 @@ Welcome to the Sri Lankan Free & Open Source Software (FOSS) Collection! This re
 
  - [ShipZilla](https://github.com/one-highflyer/Shipzilla) : A configurable shipping / courier fee calculation system
 
-## Programming Languages  
+## Programming Languages 💻
 
  - [Ballerina](https://ballerina.io) : A new general-purpose and cloud-native programming language, optimized for integrations.
 
